@@ -1,4 +1,4 @@
-# University Assignments
+# Assignments
 
 A collection of course assignments and research papers from undergraduate studies, organized by course.
 
