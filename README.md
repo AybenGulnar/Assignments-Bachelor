@@ -48,7 +48,7 @@ Article review assignments.
 
 ### Artificial Intelligence
 
-**N-Puzzle (`yapay-zeka/`)** — BFS and DFS search algorithms
+**N-Puzzle (`artificial-intelligence/`)** — BFS and DFS search algorithms
 
 | File | Description |
 |---|---|
@@ -59,13 +59,13 @@ Article review assignments.
 | `odev3_uygulama_karsilastirmali_analiz.pdf` | Comparative analysis |
 | `outputs/` | BFS/DFS graph outputs |
 
-**K-Means (`yapay-zeka/k-means/`)** — Clustering algorithm
+**K-Means (`artificial-intelligence/k-means/`)** — Clustering algorithm
 
 | File | Description |
 |---|---|
 | `k-means.ipynb` | K-Means clustering implementation |
 
-**Decision Tree (`yapay-zeka/karar-agaci/`)** — Classification
+**Decision Tree (`artificial-intelligence/karar-agaci/`)** — Classification
 
 | File | Description |
 |---|---|
@@ -75,7 +75,7 @@ Article review assignments.
 | `rapor.pdf` | Assignment report |
 | `bonus-odev.pdf` | Bonus assignment |
 
-**Apriori (`yapay-zeka/apriori/`)** — Association rule mining
+**Apriori (`artificial-intelligence/apriori/`)** — Association rule mining
 
 | File | Description |
 |---|---|
@@ -90,7 +90,7 @@ Article review assignments.
 
 File organization assignments — binary method and Reisch hashing.
 
-**C# v1 (`veri-yapilari/csharp/`):**
+**C# v1 (`data-structures/csharp/`):**
 
 | File | Description |
 |---|---|
@@ -98,7 +98,7 @@ File organization assignments — binary method and Reisch hashing.
 | `ConsoleApp1/Reisch.cs` | Reisch hashing |
 | `ConsoleApp1/TestClass.cs` | Test cases |
 
-**C# v2 (`veri-yapilari/file-org/`):**
+**C# v2 (`data-structures/file-org/`):**
 
 | File | Description |
 |---|---|
@@ -107,7 +107,7 @@ File organization assignments — binary method and Reisch hashing.
 | `ConsoleApp1/TestClass.cs` | Test cases |
 | `odev-tanimi.docx` | Assignment description |
 
-**Java (`veri-yapilari/java/`):**
+**Java (`data-structures/java/`):**
 
 | File | Description |
 |---|---|
@@ -127,9 +127,9 @@ File organization assignments — binary method and Reisch hashing.
 
 ### Algorithms
 
-**TSP C# (`algoritmalar/tsp.cs`)** — Brute force
+**TSP C# (`algorithms/tsp.cs`)** — Brute force
 
-**TSP Java (`algoritmalar/tsp-java/`)** — Graph visualization with JUNG
+**TSP Java (`algorithms/tsp-java/`)** — Graph visualization with JUNG
 
 | File | Description |
 |---|---|
