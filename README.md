@@ -1,45 +1,45 @@
-# Üniversite Ödevleri
+# University Assignments
 
-Lisans eğitimi süresince hazırlanan ders ödevleri ve araştırma çalışmaları.
-
----
-
-## Dersler
-
-### Bilgisayar Mimarisi (BM482)
-**2022–2023 Güz Yarıyılı**
-
-| Dosya | Açıklama |
-|---|---|
-| `odev-1-hyper-threading.pdf` | Hyper-Threading teknolojisi |
-| `odev-2-interrupt.pdf` | Interrupt mekanizması |
-| `odev-3-cache-coherence.pdf` | Önbellek tutarlılığı |
-| `odev-4.pdf` | 4. ödev |
-| `odev-5.pdf` | 5. ödev |
-| `odev-6.pdf` | 6. ödev |
-| `coklu-islemci-odevi.pdf` | Çoklu işlemci mimarisi |
-| `vize.pdf` | Vize sınavı |
-| `file.pdf` | Ek materyal |
+A collection of course assignments and research papers from undergraduate studies, organized by course.
 
 ---
 
-### Bilgisayar Ağları (BM402)
+## Courses
 
-Makale inceleme ödevleri.
+### Computer Architecture (BM482)
+**2022–2023 Fall Semester**
 
-| Dosya | Açıklama |
+| File | Description |
 |---|---|
-| `makale-1.pdf` | 1. makale ödevi |
-| `makale-2.pdf` | 2. makale ödevi |
-| `makale-3.pdf` | 3. makale ödevi |
-| `makale-4.pdf` | 4. makale ödevi |
-| `makale-5.pdf` | 5. makale ödevi |
-| `makale-7.pdf` | 7. makale ödevi |
+| `odev-1-hyper-threading.pdf` | Hyper-Threading technology |
+| `odev-2-interrupt.pdf` | Interrupt mechanisms |
+| `odev-3-cache-coherence.pdf` | Cache coherence |
+| `odev-4.pdf` | Assignment 4 |
+| `odev-5.pdf` | Assignment 5 |
+| `odev-6.pdf` | Assignment 6 |
+| `coklu-islemci-odevi.pdf` | Multiprocessor architecture |
+| `vize.pdf` | Midterm exam |
+| `file.pdf` | Additional material |
 
 ---
 
-### Güvenli Kodlama
+### Computer Networks (BM402)
 
-| Dosya | Açıklama |
+Article review assignments.
+
+| File | Description |
 |---|---|
-| `arastirma.pdf` | Araştırma çalışması |
+| `makale-1.pdf` | Article review 1 |
+| `makale-2.pdf` | Article review 2 |
+| `makale-3.pdf` | Article review 3 |
+| `makale-4.pdf` | Article review 4 |
+| `makale-5.pdf` | Article review 5 |
+| `makale-7.pdf` | Article review 7 |
+
+---
+
+### Secure Coding
+
+| File | Description |
+|---|---|
+| `arastirma.pdf` | Research paper |
